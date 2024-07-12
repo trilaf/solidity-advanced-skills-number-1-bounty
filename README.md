@@ -1,1 +1,1 @@
-# solidity-advanced-skills-number-1-bounty
+# Solidity Advanced Skills #1 Bounty
